@@ -1,5 +1,5 @@
-import 'package:e_commerce_app/core/colors.dart';
-import 'package:e_commerce_app/provider/cart_provider.dart';
+import 'package:e_commerce_app/features/core/colors.dart';
+import 'package:e_commerce_app/features/provider/cart_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 

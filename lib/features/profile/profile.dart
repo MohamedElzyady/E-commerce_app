@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:image_picker/image_picker.dart';
 
 class Profile3 extends StatefulWidget {
   const Profile3({super.key});

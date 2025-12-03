@@ -1,4 +1,4 @@
-import 'package:e_commerce_app/core/colors.dart';
+import 'package:e_commerce_app/features/core/colors.dart';
 import 'package:flutter/material.dart';
 
 class CustomAppBar extends StatefulWidget {

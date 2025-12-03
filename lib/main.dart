@@ -1,7 +1,7 @@
-import 'package:e_commerce_app/pages/buttom_bar.dart';
+import 'package:e_commerce_app/shared/buttom_bar.dart';
 
-import 'package:e_commerce_app/provider/cart_provider.dart';
-import 'package:e_commerce_app/provider/favorite_provider.dart';
+import 'package:e_commerce_app/features/provider/cart_provider.dart';
+import 'package:e_commerce_app/features/provider/favorite_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

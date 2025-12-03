@@ -1,6 +1,6 @@
-import 'package:e_commerce_app/core/colors.dart';
-import 'package:e_commerce_app/models/product_model.dart';
-import 'package:e_commerce_app/provider/cart_provider.dart';
+import 'package:e_commerce_app/features/core/colors.dart';
+import 'package:e_commerce_app/features/models/product_model.dart';
+import 'package:e_commerce_app/features/provider/cart_provider.dart';
 import 'package:flutter/material.dart';
 
 
@@ -20,7 +20,6 @@ class _AddtoCardState extends State<AddtoCard> {
     final Provider = CartProvider.of(context);
     return Padding(
       padding: EdgeInsetsGeometry.symmetric(horizontal: 15),
-
       child: Container(
         padding: EdgeInsetsGeometry.symmetric(horizontal: 15),
         height: 85,

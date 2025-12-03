@@ -1,7 +1,7 @@
-import 'package:e_commerce_app/core/colors.dart';
-import 'package:e_commerce_app/pages/buttom_bar.dart';
-import 'package:e_commerce_app/pages/widgets/check_out.dart';
-import 'package:e_commerce_app/provider/cart_provider.dart';
+import 'package:e_commerce_app/features/core/colors.dart';
+import 'package:e_commerce_app/shared/buttom_bar.dart';
+import 'package:e_commerce_app/features/cart/widgets/check_out.dart';
+import 'package:e_commerce_app/features/provider/cart_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 

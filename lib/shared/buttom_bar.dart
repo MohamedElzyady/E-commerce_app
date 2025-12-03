@@ -1,8 +1,8 @@
-import 'package:e_commerce_app/core/colors.dart';
-import 'package:e_commerce_app/pages/car.dart';
-import 'package:e_commerce_app/pages/favorits.dart';
-import 'package:e_commerce_app/pages/home.dart';
-import 'package:e_commerce_app/pages/profile.dart';
+import 'package:e_commerce_app/features/core/colors.dart';
+import 'package:e_commerce_app/features/cart/car.dart';
+import 'package:e_commerce_app/features/favorits/favorits.dart';
+import 'package:e_commerce_app/features/home/home.dart';
+import 'package:e_commerce_app/features/profile/profile.dart';
 
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';

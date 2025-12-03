@@ -1,4 +1,4 @@
-import 'package:e_commerce_app/models/categroy_model.dart';
+import 'package:e_commerce_app/features/models/categroy_model.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 

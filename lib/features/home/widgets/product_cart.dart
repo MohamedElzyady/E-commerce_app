@@ -1,7 +1,7 @@
-import 'package:e_commerce_app/core/colors.dart';
-import 'package:e_commerce_app/models/product_model.dart';
-import 'package:e_commerce_app/pages/details.dart';
-import 'package:e_commerce_app/provider/favorite_provider.dart';
+import 'package:e_commerce_app/features/core/colors.dart';
+import 'package:e_commerce_app/features/models/product_model.dart';
+import 'package:e_commerce_app/features/details/details.dart';
+import 'package:e_commerce_app/features/provider/favorite_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 
@@ -69,7 +69,6 @@ class _ProductCartState extends State<ProductCart> {
                         fontWeight: FontWeight.bold,
                       ),
                     ),
-
                     Row(
                       children: List.generate(widget.product.colors.length, (
                         index,
